@@ -1,0 +1,1 @@
+# ja_tesseract_ocr
